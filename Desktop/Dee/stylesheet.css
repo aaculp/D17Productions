@@ -1,8 +1,78 @@
 @charset "UTF-8";
-.indexpage {
-background-color: white;
-  background-position: center;
-  background-size: 80%;
-  background-repeat: no-repeat;
+.body{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+  	background-position: center;
+  	background-size: 80%;
+  	background-repeat: no-repeat;
+ 	color: black;
+}
+.navbar {
+	display: block;
+	width: 100%;
+	float: auto;
+	margin-top: 0px;
+	margin-left: 0px;
+	font-size: 30px;
 	color: black;
+	overflow: hidden;
+	position: fixed;
+	background-color: white;
+	top: 0;
+}
+.Par1 {
+    background-image: url("Logo1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+	min-height: 700px; 
+    color: white;
+}
+.Par2 {
+	background-image: url("Logo1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+	min-height: 600px; 
+    color: white;
+}
+.Par3 {
+	background-image: url("Logo1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+	min-height: 600px; 
+    color: white;
+}
+.Par4 {
+	background-image: url("Logo1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 500px 500px;
+	min-height: 600px; 
+    color: white;
+}
+.Dee {
+	
+	float: left;
+	width: 200px;
+	padding: 50px;
+	margin-left: 200px;
+	
+}
+.About {
+	float: left;
+	width: 200px;
+	margin-left: 100px;
+	
+}
+.upevents {
+	float: center;
+	padding-top: 450px;
+	margin-left: 300px;
 }
